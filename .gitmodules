@@ -1,3 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Daichi-appy/Nuxt_rails-api.git
 [submodule "front"]
 	path = front
-	url = ./front_cp
+	url = git@github.com:Daichi-appy/Nuxt_rails-front.git
