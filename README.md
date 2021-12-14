@@ -9,8 +9,8 @@ https://appy-nuxt-rails-front.herokuapp.com/
 # 使用技術
 
 - フロントエンド
-  - Nuxt.js 2.15.7
-  - Vuetify 2.5.10
+  - Nuxt.js（SPAモード） 2.15.7
+  - Vuetify(CSSフレームワーク) 2.5.10
 
 - バックエンド
   - Ruby on Rails (APIモード) 6.0.4
@@ -28,7 +28,12 @@ https://appy-nuxt-rails-front.herokuapp.com/
 - テーマ
   - 新規作成・削除・並び替え
 - タスク
-  -新規作成
+  - 新規作成・削除
+- 実装予定　
+  - タスク内カテゴリ分け
+  - テーマ・タスク　編集
+  - お気に入り機能
+  - ドラッグ&ドロップで並び替え
 
 
 # E-R図
