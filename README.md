@@ -15,14 +15,6 @@ https://www.ideastocker.com
 - バックエンド
   - Ruby on Rails (APIモード) 6.0.4
 
-- インフラ
-  - Heroku
-  - Docker 20.10.5
-  - Dokcer-compose 1.29
-- 開発PC macOS 10.13
-# インフラ構成図
-![インフラ構成図](https://user-images.githubusercontent.com/59179394/145929544-a0f7b86f-bf3f-4a00-8395-997127e6020b.png)
-
 # 機能一覧
 - 新規会員登録・ログイン(JWT認証)
 - テーマ
@@ -35,3 +27,10 @@ https://www.ideastocker.com
   - お気に入り機能
   - ドラッグ&ドロップで並び替え
 　
+- インフラ
+  - Heroku
+  - Docker 20.10.5
+  - Dokcer-compose 1.29
+- 開発PC macOS 10.13
+# インフラ構成図
+![インフラ構成図](https://user-images.githubusercontent.com/59179394/145929544-a0f7b86f-bf3f-4a00-8395-997127e6020b.png)
