@@ -1,5 +1,5 @@
 # IdeaStocker
-IdeaStockerは、やりたいことや、漠然としたことなど自由にテーマを決めて、思いついたタスクやひらめきなどメモして管理できるアプリケーションです。
+メモ管理できるアプリケーション
 
 ![IdeaStocker画像](https://user-images.githubusercontent.com/59179394/145931448-f3e3f61d-20c1-44c1-9885-9729a3c8ad80.png)
 
